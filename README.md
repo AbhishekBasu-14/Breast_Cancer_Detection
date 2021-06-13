@@ -20,4 +20,25 @@ The important libraries used are as follows:
 7. seaborn
 
 The results are as follows:
+| Algorithm      | Testing Accuracy | Precision      | Recall         | Specificity    |
+| -------------- | --------------   | -------------- | -------------- | -------------- | 
+| CNN            |     98.24        |        96.875  | 98.412         |     98.148     |       
+| RF             |     96.875       |        93.846  | 96.825         |     96.296     |  
+| LR             |     98.245       |        98.387  | 96.825         |     99.074     |
+| KNN            |     96.491       |        96.721  | 93.65          |     98.148     | 
+| SVM            |     96.491       |        95.238  | 95.23          |     97.222     |
 
+Comaprsion Graph:
+![COMPARE](https://user-images.githubusercontent.com/58266816/121813768-2f3d5080-cc8b-11eb-8f14-97561b46dc44.png)
+
+Confusion matrix of each algorithm:
+
+| CNN  Testing Accuracy: 98.24%       | RF  Testing Accuracy: 96.49%           | LR  Testing Accuracy: 98.24%           |
+| -------------- | -------------- | -------------- | 
+| ![CNN](https://user-images.githubusercontent.com/58266816/121812879-40845e00-cc87-11eb-9154-252fbbfc3197.png)| ![RF](https://user-images.githubusercontent.com/58266816/121812899-5d209600-cc87-11eb-9fa5-450ab765901b.png) | ![LR](https://user-images.githubusercontent.com/58266816/121812952-95c06f80-cc87-11eb-9f07-b35c14b77ea4.png) |
+
+
+
+| KNN   Testing Accuracy: 96.49%                   | SVM   Testing Accuracy: 96.49%                 |
+| -------------- | -------------- |
+| ![KNN](https://user-images.githubusercontent.com/58266816/121813004-cef8df80-cc87-11eb-8e04-acea93dc69b0.png) | ![SVM](https://user-images.githubusercontent.com/58266816/121813021-e506a000-cc87-11eb-813b-182bed7d9951.png) | 
