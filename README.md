@@ -29,6 +29,7 @@ The results are as follows:
 | SVM            |     96.491       |        95.238  | 95.23          |     97.222     |
 
 Comaparison Graph:
+
 ![COMPARE](https://user-images.githubusercontent.com/58266816/121813768-2f3d5080-cc8b-11eb-8f14-97561b46dc44.png)
 
 Confusion matrix of each algorithm:
