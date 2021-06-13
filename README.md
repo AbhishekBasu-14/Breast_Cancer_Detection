@@ -10,7 +10,14 @@ This is the course project of Open Source Technology and Communication Lab (OSTC
 
 Models were trained after data pre-processing and feature selection using a correlation heatmap. Hypertuning of parameters was done in order to increase the accuracy of each model.
 
-The libraries used are as follows:
+The important libraries used are as follows:
+1. keras
+2. tensorflow
+3. sklearn
+4. numpy
+5. pandas
+6. matplotlib
+7. seaborn
 
 The results are as follows:
 
