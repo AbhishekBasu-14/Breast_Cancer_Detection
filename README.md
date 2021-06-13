@@ -28,7 +28,7 @@ The results are as follows:
 | KNN            |     96.491       |        96.721  | 93.65          |     98.148     | 
 | SVM            |     96.491       |        95.238  | 95.23          |     97.222     |
 
-Comaprsion Graph:
+Comaparison Graph:
 ![COMPARE](https://user-images.githubusercontent.com/58266816/121813768-2f3d5080-cc8b-11eb-8f14-97561b46dc44.png)
 
 Confusion matrix of each algorithm:
