@@ -43,3 +43,7 @@ Confusion matrix of each algorithm:
 | KNN                      | SVM                    |
 | -------------- | -------------- |
 | ![KNN](https://user-images.githubusercontent.com/58266816/121813004-cef8df80-cc87-11eb-8e04-acea93dc69b0.png) | ![SVM](https://user-images.githubusercontent.com/58266816/121813021-e506a000-cc87-11eb-813b-182bed7d9951.png) | 
+
+Conclusion:
+
+Logistic Regression scored the maximum accuracy. CNN came out to be very close to LR. Random Forest was seen to have minimum variance before and after hyper tuning with respect to accuracy. SVM gave an accuracy near to 98% provided train to test data split was 80:20. However for fair comparison, we have shown the result obtained for a train to test data split of 70:30 for all the 5 approaches.
